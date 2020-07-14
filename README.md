@@ -1,4 +1,4 @@
 # SnakeGame
 
-![Alt Text](imag/snake1.PNG)
-![Alt Text](imag/snake2.PNG) 
+![](img/snake1.PNG)
+![](img/snake2.PNG) 
